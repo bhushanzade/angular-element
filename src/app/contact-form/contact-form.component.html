@@ -1,0 +1,13 @@
+<div id="deployform" class="deployform" [class.open]="isOpen" (click)="toggle($event, cancelEvent)">
+  <i class="fa fa-envelope icon" aria-hidden="true"></i>
+  <i class="fa fa-times cancel" #cancelEvent aria-hidden="true"></i>
+  <form class="form" [formGroup]="reactiveForm">
+    <input type="text" placeholder="Name" formControlName="name"
+      [ngClass]="{ 'is-invalid': !f['name'].valid && f['name'].touched }" />
+    <input type="text" placeholder="Phone" formControlName="phone"
+      [ngClass]="{ 'is-invalid': !f['phone'].valid && f['phone'].touched }" />
+    <textarea rows="3" placeholder="Your message" formControlName="message"
+      [ngClass]="{ 'is-invalid': !f['message'].valid && f['message'].touched }"></textarea>
+    <button (click)="save()">Send</button>
+  </form>
+</div>

@@ -1,0 +1,88 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Bhushan Zade",
+      "phone": "8329042250",
+      "message": "Sample testing for angular message element"
+    },
+    {
+      "name": "fjhgfjhgjhg",
+      "phone": "87987987",
+      "message": "gfjfjfjfjhghg",
+      "id": 2
+    },
+    {
+      "name": "jhkjhkjh",
+      "phone": "5765765765",
+      "message": "bcdfdghdhd",
+      "id": 3
+    },
+    {
+      "name": "jjjj",
+      "phone": "6565",
+      "message": "ghghjgjg",
+      "id": 4
+    },
+    {
+      "name": "asdasd",
+      "phone": "fdgdfg",
+      "message": "fddsfsdf",
+      "id": 5
+    },
+    {
+      "name": "LKKK",
+      "phone": "900989089",
+      "message": "DSGD GSagf",
+      "id": 6
+    },
+    {
+      "name": "SOADOPI SAPOdi",
+      "phone": "S HKJSAHD",
+      "message": " JSAHDKJAHSDK HAsd",
+      "id": 7
+    },
+    {
+      "name": "ASD ASD",
+      "phone": "345345345",
+      "message": "S FASD AS D",
+      "company": "abc",
+      "id": 8
+    },
+    {
+      "name": "POASPDO",
+      "phone": "&987987",
+      "message": "SDALIJDl",
+      "company": "abc",
+      "id": 9
+    },
+    {
+      "name": "React Tstng",
+      "phone": "8789778978",
+      "message": "Testing",
+      "company": "xyz",
+      "id": 10
+    },
+    {
+      "name": "Testing 21",
+      "phone": "7897897878",
+      "message": "Hello Tester",
+      "company": "xyz",
+      "id": 11
+    },
+    {
+      "name": "hjghj",
+      "phone": "56456",
+      "message": "hgjghjhgj",
+      "company": "abc",
+      "id": 12
+    },
+    {
+      "name": "Bhushan Zade",
+      "phone": "+918983136871",
+      "message": "SFA",
+      "company": "xyz",
+      "id": 13
+    }
+  ]
+}
